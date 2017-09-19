@@ -1,0 +1,23 @@
+#header .header_nav .nav_left .nav_list{display: none;}
+
+#main{width: 1280px;}
+.content-wrap{width: 100%;background: #fff;padding-top: 50px;}
+.content-wrap form{width: 380px;float: left;}
+.content-wrap form h2{margin:10px 0 30px 0;line-height: 40px;font-size: 22px;}
+.content-wrap form p{width: 376px;height: 40px;border: 1px solid #cccccc;line-height: 40px;position: relative;margin-bottom: 15px;}
+.content-wrap form p img{width: 16px;height: 16px;display: inline-block;position: absolute;top: 12px;left: 11px;}
+.content-wrap form input{border: none;outline: none;margin-left: 40px;}
+.content-wrap>img{float: left;width: 455px;margin-left: 160px;margin-right: 40px;}
+.content-wrap form p:nth-child(4){border: none;}
+.content-wrap form p:nth-child(4) input{margin-left: 0;font-size: 16px;}
+.content-wrap form p:nth-child(4) a{display: inline-block;color: #469c2e;font-size: 16px;text-decoration: none;}
+.content-wrap form p:nth-child(4) a:nth-child(2){margin-left: 120px;}
+.content-wrap form>a{display: block;width: 196px;height: 46px;border: 2px solid #dddddd;text-align: center;line-height: 46px;font-size: 18px;color: #000;background: #f4ec2f;border-radius: 6px;text-decoration: none;margin: auto;margin-top: 20px;}
+#main_bottom .bottom_l{width: 307px;height:158px;background: #f2f2f2;padding: 45px 0 62px 0;}
+#main_bottom .bottom_l p{height: 48px;}
+#main_bottom .bottom_l p:nth-child(1){margin-top: 40px;position: relative;}
+#main_bottom .bottom_l p:nth-child(1) span{display: block;position: absolute;left: 100px;top: -84px;}
+#main_bottom .bottom_l p a{display: block;line-height: 48px;font-size: 18px;text-decoration: none;color: #000;padding-left: 50px;margin-left: 10px;}
+#main_bottom .bottom_l p a:hover{color: #000;}
+#main_bottom .bottom_l p:nth-child(1)>a{background: url("http://media.freshfresh.com/media/wysiwyg/frontpage/freshfreshweixin.png") no-repeat left center;}
+#main_bottom .bottom_l p:nth-child(2)>a{background: url("http://media.freshfresh.com/media/wysiwyg/frontpage/freshfreshweibo.png") no-repeat left center;}

@@ -1,0 +1,9 @@
+#main>.container{width: 1280px;height: 500px;position: relative;overflow: hidden;}
+#main>.container>ul>li{width: 1280px;height: 500px;list-style: none;position: absolute;}
+#main>.container>ul>li>a{display: block;width: 1280px;height: 500px;}
+#main>.container>ul>li>a>img{width: 100%;height: 100%;}
+#main>.container>.btn{position: absolute;left: 50%;z-index: 999;margin-left: -150px;bottom: 10px;}
+#main>.container>.btn>span{display: inline-block;width: 20px;height: 20px;border-radius: 50%;background: #fff;margin:  0 5px;}
+#main>.container>.btn>span.active{background: green;}
+#main>.container>#left{position: absolute;z-index: 1000;width: 100px;height: 100px;}
+#main>.container>#right{left: 200px;position: absolute;z-index: 1000;width: 100px;height: 100px;}
